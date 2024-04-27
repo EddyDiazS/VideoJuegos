@@ -52,3 +52,6 @@ router.delete("/juegos/:id", (req, res) => {
             res.json({ message: error });
         });
 });
+
+//npm install express --save --node modules 
+
